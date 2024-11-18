@@ -1,6 +1,6 @@
 **Introduction**
 
-This mysql-async Library for FiveM intends to provide function to connect to a MySQL in a Sync and Async way.
+A very Simple resource that allows resources to run tasks asynchronously.
 
 # fxserver-async
 Async utilities for FXServer
